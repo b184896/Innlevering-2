@@ -22,7 +22,6 @@ class TabellerEnhetsTests {
 		tabell2[0] = 1;
 
 		tabell3 = new int[0];
-
 	}
 
 	@Test
